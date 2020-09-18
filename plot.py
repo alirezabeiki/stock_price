@@ -29,16 +29,17 @@ def plot_prediction_target(Xt, forward_days, ytest, sc):
     return
 
 
-def plot_Future_Price(y, forward_days, price):
+def plot_prediction(xpre, ypre, ytrue, look_back, forward_days):
     
     plt.figure(figsize = (15,10))
     
-    x=[]
-    for i in range(forward_days):
-        x.append(i)
+    ix_pre = np.arange(1,look_back+1)
+    iy_pre = np.arange(look_back+1, look_back+1+forward_days)
+
     
-    plt.plot(x,y, label='Prediction')
-    plt.plot(x,price, label='True Price')
+    plt.plot(ix_pre, xpre, label='Past Days')
+    plt.plot(iy_pre ,ypre, label='Predictions')
+    plt.plot(iy_pre ,ytrue, label='True Value')
     plt.legend(loc='best')
     plt.show()
     
