@@ -20,5 +20,10 @@
 * [TensorFlow](https://github.com/shivamsaboo17/Cryptocurrency-Prediction) - Cryptocurrency-Prediction
 * [TensorFlow](https://github.com/kadambini-indurkar/CryptocurrencyPrediction) - BitCOIN Prediction
 * [TensorFlow](https://github.com/falaybeg/LSTM-Bitcoin-GoogleTrends-Prediction) - LSTM-Bitcoin-GoogleTrends-Prediction 
+* [TensorFlow](https://github.com/NourozR/Stock-Price-Prediction-LSTM) - Stock Price Prediction of Apple Inc. Using Recurrent Neural Network.
+* [TensorFlow](https://github.com/sidgolangade/Stock-Price-Prediction-Using-LSTM-Project) - Stock Price Prediction Using LSTM Project
+* [TensorFlow](https://github.com/CGomezNarvaez/Stock-Market-Prediction-Using-LSTM-and-Online-News-Sentiment-Analysis) - Stock-Market-Prediction-Using-LSTM-and-Online-News-Sentiment-Analysis
+* [TensorFlow](https://github.com/Rajat-dhyani/Stock-Price-Predictor) - Stock Price Predictor
+* [TensorFlow](https://github.com/alexavierc/LSTM-Stock-Prices) - Predicting stock prices with LSTM network
 
 
