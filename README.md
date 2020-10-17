@@ -7,8 +7,10 @@
 
 * [TensorFlow](https://github.com/siwoonlee/NuNet) - Stock market forecasting with super-high dimensional time-series data using ConvLSTM, trend sampling, and specialized data augmentation, 2020.
 * [TensorFlow](https://github.com/fulifeng/Adv-ALSTM) - Enhancing Stock Movement Prediction with Adversarial Training, 2019.
+* [TensorFlow](https://github.com/fulifeng/Temporal_Relational_Stock_Ranking) - Temporal Relational Ranking for Stock Prediction, 2019.
 * [TensorFlow](https://github.com/z331565360/State-Frequency-Memory-stock-prediction) - Stock Price Prediction via Discovering Multi-Frequency TradingPatterns, 2017.
 * [Pytorch](https://github.com/liweitj47/overnight-stock-movement-prediction) - Modeling the Stock Relation with Graph Network for Overnight Stock Movement Prediction, 2020.
+* [TensorFlow](https://github.com/z331565360/State-Frequency-Memory-stock-prediction) - Stock Price Prediction via Discovering Multi-Frequency Trading Patterns, 2017
 
 
 ## Some Repositories:
@@ -25,5 +27,6 @@
 * [TensorFlow](https://github.com/CGomezNarvaez/Stock-Market-Prediction-Using-LSTM-and-Online-News-Sentiment-Analysis) - Stock-Market-Prediction-Using-LSTM-and-Online-News-Sentiment-Analysis
 * [TensorFlow](https://github.com/Rajat-dhyani/Stock-Price-Predictor) - Stock Price Predictor
 * [TensorFlow](https://github.com/alexavierc/LSTM-Stock-Prices) - Predicting stock prices with LSTM network
+
 
 
